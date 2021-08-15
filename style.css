@@ -7,7 +7,7 @@
     background-size: cover;
     background-position:center;
     height: 800px;
-    margin-top: 20px;
+    margin-top: 50px;
 } 
 #home h3{
     font-family: cursive;
@@ -16,7 +16,7 @@
     font-weight: bold;
     color:white;
     text-shadow:3px 3px grey;
-    font-size: 4s0px;
+    font-size: 40px;
     font-style: italic;
     
 }
@@ -24,7 +24,7 @@
     margin-top: 20px;
 }
 #Gallery marquee{
-    margin-top: 10px;
+    margin-top: 50px;
     font-size: 25px;
     color: chocolate;
     background-image: url(image/image2.jfif);
@@ -58,16 +58,19 @@
     grid-gap: 10px;
     margin-top: 20px;
 }
+#aboutus h3{
+    margin-top: 50px;
+}
 #aboutus{
-    margin-top: 20px;
+  
     font-size: 25px;
     font-family: cursive;
 }
 .row h3{
     text-shadow: 3px 3px 1px gainsboro;
 }
-#booking{
-    margin-top: 20px;
+#booking h3{
+    margin-top: 50px;
 }
 #booking marquee{
     color: coral;
@@ -85,7 +88,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     color: blanchedalmond;
-    margin-top: 20px;
+    margin-top: 50px;
     font-family: cursive;
     font-size: 20px;
 }
