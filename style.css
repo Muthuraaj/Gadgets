@@ -1,0 +1,91 @@
+.navbar{
+    margin-bottom:50px;
+}
+#home{
+    background: url("image/home.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 800px;
+    margin-top: 20px;
+} 
+#home h3{
+    font-family: cursive;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top:10%;
+    font-weight: bold;
+    color:white;
+    text-shadow:3px 3px grey;
+    font-size: 4s0px;
+    font-style: italic;
+    
+}
+#Gallery{
+    margin-top: 20px;
+}
+#Gallery marquee{
+    margin-top: 10px;
+    font-size: 25px;
+    color: chocolate;
+    background-image: url(image/image2.jfif);
+    background-repeat: repeat;
+    background-size: cover;
+    font-family: fantasy;
+
+}
+.photos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    padding: 10px;
+    grid-gap: 10px;
+    margin-top: 20px;
+
+}
+.headphones{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-rows: 1fr ;
+    padding: 10px;
+    grid-gap: 10px;
+    margin-top: 20px;
+}
+.laptops{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    padding: 10px;
+    grid-gap: 10px;
+    margin-top: 20px;
+}
+#aboutus{
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: cursive;
+}
+.row h3{
+    text-shadow: 3px 3px 1px gainsboro;
+}
+#booking{
+    margin-top: 20px;
+}
+#booking marquee{
+    color: coral;
+    font-size: 25px;
+    background-color: darkgrey;
+    font-family: cursive;  
+}
+.form-group{
+    font-family: cursives;
+    font-size: 20px;
+}
+#contactus{
+    background-image: url(image/contact.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: blanchedalmond;
+    margin-top: 20px;
+    font-family: cursive;
+    font-size: 20px;
+}
